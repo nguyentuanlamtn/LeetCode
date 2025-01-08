@@ -39,6 +39,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "addBinary", "addBinary\addB
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mySqrt", "mySqrt\mySqrt.vcxproj", "{0BEB65B2-5971-4B8F-AD05-3AB3C0D7F423}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "climbStairs", "climbStairs\climbStairs.vcxproj", "{C0F3447D-DF90-4A09-8AB9-05E37881E950}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -175,6 +177,14 @@ Global
 		{0BEB65B2-5971-4B8F-AD05-3AB3C0D7F423}.Release|x64.Build.0 = Release|x64
 		{0BEB65B2-5971-4B8F-AD05-3AB3C0D7F423}.Release|x86.ActiveCfg = Release|Win32
 		{0BEB65B2-5971-4B8F-AD05-3AB3C0D7F423}.Release|x86.Build.0 = Release|Win32
+		{C0F3447D-DF90-4A09-8AB9-05E37881E950}.Debug|x64.ActiveCfg = Debug|x64
+		{C0F3447D-DF90-4A09-8AB9-05E37881E950}.Debug|x64.Build.0 = Debug|x64
+		{C0F3447D-DF90-4A09-8AB9-05E37881E950}.Debug|x86.ActiveCfg = Debug|Win32
+		{C0F3447D-DF90-4A09-8AB9-05E37881E950}.Debug|x86.Build.0 = Debug|Win32
+		{C0F3447D-DF90-4A09-8AB9-05E37881E950}.Release|x64.ActiveCfg = Release|x64
+		{C0F3447D-DF90-4A09-8AB9-05E37881E950}.Release|x64.Build.0 = Release|x64
+		{C0F3447D-DF90-4A09-8AB9-05E37881E950}.Release|x86.ActiveCfg = Release|Win32
+		{C0F3447D-DF90-4A09-8AB9-05E37881E950}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -196,6 +206,7 @@ Global
 		{DB712E3E-58BF-44C4-AABD-97F30014F8DE} = {900E5D8D-D1AA-4490-81DA-DB4FE38B5AAF}
 		{EBF0C596-E8C8-425F-B6C6-F9A63FCA1A8C} = {900E5D8D-D1AA-4490-81DA-DB4FE38B5AAF}
 		{0BEB65B2-5971-4B8F-AD05-3AB3C0D7F423} = {900E5D8D-D1AA-4490-81DA-DB4FE38B5AAF}
+		{C0F3447D-DF90-4A09-8AB9-05E37881E950} = {900E5D8D-D1AA-4490-81DA-DB4FE38B5AAF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7DEABC78-F0BD-45EA-A674-5B4ECFFB9A89}
