@@ -15,10 +15,17 @@ int climbStairs(int n) {
 }
 
 int main() {
-    int n;
-    cout << "Enter number of steps: ";
-    cin >> n;
+    
+    int t;
+    cin >> t;
+    while (t--)
+    {
+        int n;
+        cout << "Enter number of steps: ";
+        cin >> n;
 
-    cout << "The number of ways to climb to the top is: " << climbStairs(n) << endl;
+        cout << "The number of ways to climb to the top is: " << climbStairs(n) << endl;
+    }
+
     return 0;
 }
